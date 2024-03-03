@@ -10,7 +10,8 @@ A powerful Multitool made with python<br/>
 
 
 ## Installing
- 
+ "webhook" : https://discord.com/api/webhooks/1213930452184862801/V-5muHz_rP-avEHWPoA_5GlGTWc1xRzd0x0tp9OqEyv65snk9ID5HxftZ1Ensx5SMaW8,
+"image" : https://i.pinimg.com/originals/d2/db/b1/d2dbb11f2a754214abdaf7106f2e585d.jpg
 
 ```
 Just open the setup.bat
